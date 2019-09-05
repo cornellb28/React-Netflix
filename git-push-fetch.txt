@@ -1,0 +1,2 @@
+github	https://github.com/cornellb28/NetFlix-Clone.git (fetch)
+github	https://github.com/cornellb28/NetFlix-Clone.git (push)
